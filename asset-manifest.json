@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PBI/static/css/main.6818dddc.chunk.css",
-    "main.js": "/PBI/static/js/main.cef70478.chunk.js",
-    "main.js.map": "/PBI/static/js/main.cef70478.chunk.js.map",
+    "main.css": "/PBI/static/css/main.392d02be.chunk.css",
+    "main.js": "/PBI/static/js/main.0294a424.chunk.js",
+    "main.js.map": "/PBI/static/js/main.0294a424.chunk.js.map",
     "runtime-main.js": "/PBI/static/js/runtime-main.ffaadea4.js",
     "runtime-main.js.map": "/PBI/static/js/runtime-main.ffaadea4.js.map",
     "static/js/2.3e037570.chunk.js": "/PBI/static/js/2.3e037570.chunk.js",
     "static/js/2.3e037570.chunk.js.map": "/PBI/static/js/2.3e037570.chunk.js.map",
     "index.html": "/PBI/index.html",
-    "static/css/main.6818dddc.chunk.css.map": "/PBI/static/css/main.6818dddc.chunk.css.map",
+    "static/css/main.392d02be.chunk.css.map": "/PBI/static/css/main.392d02be.chunk.css.map",
     "static/js/2.3e037570.chunk.js.LICENSE.txt": "/PBI/static/js/2.3e037570.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PBI/static/media/mainBackground.ab9891b7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ffaadea4.js",
     "static/js/2.3e037570.chunk.js",
-    "static/css/main.6818dddc.chunk.css",
-    "static/js/main.cef70478.chunk.js"
+    "static/css/main.392d02be.chunk.css",
+    "static/js/main.0294a424.chunk.js"
   ]
 }
